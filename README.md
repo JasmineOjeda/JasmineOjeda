@@ -1,2 +1,2 @@
 ### Hi there 👋
-My focus is on software development for website and mobile applications!
+My focus is on software engineering and data sciences!
